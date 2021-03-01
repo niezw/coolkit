@@ -1,0 +1,18 @@
+{
+    "name": "mdns-docker-test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node ./dist/index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "multicast-dns": "^7.2.2"
+    },
+    "devDependencies": {
+        "@types/node": "^14.14.25"
+    }
+}
