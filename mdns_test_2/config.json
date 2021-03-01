@@ -1,8 +1,8 @@
 {
     "name": "MDNS Test",
-    "version": "1",
+    "version": "1.2",
     "slug": "mdns_test",
-    "description": "My first real add-on!",
+    "description": "add mdns test",
     "arch": ["armhf", "armv7", "aarch64", "amd64"],
     "startup": "application",
     "boot": "auto",
