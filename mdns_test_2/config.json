@@ -1,6 +1,6 @@
 {
     "name": "MDNS Test",
-    "version": "2.1.0",
+    "version": "2.2.0",
     "slug": "mdns_test",
     "description": "add mdns test",
     "arch": ["armhf", "armv7", "aarch64", "amd64"],
