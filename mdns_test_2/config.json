@@ -7,5 +7,7 @@
     "startup": "application",
     "boot": "auto",
     "options": {},
-    "schema": {}
+    "schema": {},
+    "panel_icon": "mdi:console",
+    "panel_title": "COOLKIT"
 }
